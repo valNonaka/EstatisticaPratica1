@@ -19,7 +19,7 @@ Os seguintes tratamentos foram realizados nos dados originais:
 2. Foram eliminados os registros onde a <b>Renda</b> era missing;
 3. Foram considerados somente os registros das <b>Pessoas de Referência</b> de cada domicílio (responsável pelo domicílio).
 
-
+***
 Variáveis utilizadas
 
 > Renda : Rendimento mensal do trabalho principal para pessoas de 10 anos ou mais de idade.
