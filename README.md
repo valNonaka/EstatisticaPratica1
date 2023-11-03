@@ -5,10 +5,10 @@ Projeto final do curso estatística com python Alura com foco em teste de Hipót
 Pesquisa Nacional por Amostra de Domicílios - 2015
 A <b>Pesquisa Nacional por Amostra de Domicílios - PNAD</b> investiga anualmente, de forma permanente, características gerais da população, de educação, trabalho, rendimento e habitação e outras, com periodicidade variável, de acordo com as necessidades de informação para o país, como as características sobre migração, fecundidade, nupcialidade, saúde, segurança alimentar, entre outros temas. O levantamento dessas estatísticas constitui, ao longo dos 49 anos de realização da pesquisa, um importante instrumento para formulação, validação e avaliação de políticas orientadas para o desenvolvimento socioeconômico e a melhoria das condições de vida no Brasil.
 
-Fonte dos Dados original
+Fonte dos Dados original:
 https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/pnad2015/microdados.shtm
 
-Fontes atualizadas pada dados de censo
+Fontes atualizadas para dados de censo nacional:
 https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=38166&t=resultados
 
 
